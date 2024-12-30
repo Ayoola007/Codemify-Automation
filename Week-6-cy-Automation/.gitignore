@@ -1,0 +1,10 @@
+# Ignore .DS_Store files
+.DS_Store
+# Ignore node_modules directory
+node_modules
+# ignore downloads
+downloads
+# ignore 1- gettin started
+1-getting-started
+# ignore 2-advanced
+2-advanced
