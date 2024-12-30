@@ -1,0 +1,197 @@
+
+//No 1
+
+const first = 5
+const second = 4
+
+if(first > second){
+    console.log("first is bigger");
+}
+else {
+    console.log ("first is not bigger");
+}
+
+//No 2 
+
+function getStringlength(str)
+{
+    return str.length}
+    console.log(getStringlength("str"))
+
+//No 3
+
+function divideByTwo(num)
+{
+    return num/2
+}
+
+console.log(divideByTwo(122))
+
+//No 4
+
+function sum(a, b){
+
+    return a + b;
+    }
+    console.log(sum(4, 7));
+
+//No 5
+
+function isBiggerThan5(num){
+    if (num > 5)
+    {
+        return true
+    }
+    else{
+        return false
+    };
+}
+    console.log(isBiggerThan5(20));
+
+function isBiggerThan5(num){
+    if (num > 5)
+    {
+        return true
+    }
+    else{
+        return false
+    };
+}
+    console.log(isBiggerThan5(5));
+
+    function isBiggerThan5(num){
+    if (num > 5)
+    {
+        return true
+    }
+    else{
+        return false
+    };
+}
+    console.log(isBiggerThan5(4));
+
+    function isBiggerThan5(num){
+    if (num > 5)
+    {
+        return true
+    }
+    else{
+        return false
+    };
+}
+    console.log(isBiggerThan5(1));
+
+//No 6
+
+function findBiggerNumber(firstNum, secondNum) {
+    if(firstNum > secondNum){
+      return (firstNum)
+    }
+    else{
+      return secondNum
+    }
+  }
+  console.log (findBiggerNumber(8, 27))
+
+function findBiggerNumber(firstNum, secondNum) {
+    if(firstNum > secondNum){
+      return (firstNum)
+    }
+    else{
+      return secondNum
+    }
+  }
+  console.log (findBiggerNumber(5, 1))
+
+  function findBiggerNumber(firstNum, secondNum) {
+    if(firstNum > secondNum){
+      return (firstNum)
+    }
+    else{
+      return secondNum
+    }
+  }
+  console.log (findBiggerNumber(2, 2))
+
+//No 7
+
+  function findLongerString(firstString, secondString) {
+    if(firstString.length > secondString.length){
+      return firstString
+    }
+    else{
+      return secondString
+    }
+  }
+  console.log (findLongerString("Codemify", "test"))
+
+  function findLongerString(firstString, secondString) {
+    if(firstString.length > secondString.length){
+      return firstString
+    }
+    else{
+      return secondString
+    }
+  }
+  console.log (findLongerString("automation", "coding"))
+
+  function findLongerString(firstString, secondString) {
+    if(firstString.length > secondString.length){
+      return firstString
+    }
+    else{
+      return secondString
+    }
+  }
+  console.log (findLongerString("automation", "the Codemify"))
+
+// No 8
+
+function checkEquality(value1, value2) {
+    return value1 === value2;
+}
+
+console.log(checkEquality(1, true)); 
+console.log(checkEquality(0, "0"));
+console.log(checkEquality(1, 1));
+
+// No 9
+
+function compareAge(name, age) {
+    const myAge = 32; 
+    if (age > myAge) {
+        return `${name} is older than me.`;
+    } else if (age < myAge) {
+        return `${name} is younger than me.`;
+    }
+}
+
+console.log(compareAge("Joel", 36));
+
+function compareAge(name, age) {
+    const myAge = 32; 
+    if (age > myAge) {
+        return `${name} is older than me.`;
+    } else if (age < myAge) {
+        return `${name} is younger than me.`;
+    }
+}
+
+console.log(compareAge("Samuel", 24));
+
+function compareAge(name, age) {
+    const myAge = 32; 
+    if (age > myAge) {
+        return `${name} is older than me.`;
+    } else if (age < myAge) {
+        return `${name} is younger than me.`;
+    }
+}
+
+console.log(compareAge("Lily", 28));
+
+//done
+
+
+
+
